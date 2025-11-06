@@ -49,3 +49,12 @@ batsched -v
 
 **Note**: This plugin is under active development. The accuracy of models may vary depending on input parameters and specific environment configurations.
 
+## 📬 Contact Us
+
+For questions, bug reports, suggestions, or collaboration opportunities, please use the channels below:
+
+* **GitHub Issues:** Please open an [Issue in the Batsim repository](https://github.com/saraiva03/batsim/issues) or the [SimGrid repository](https://github.com/saraiva03/simgrid/issues), as appropriate.
+* **Collaborations:** Feel free to open an Issue to discuss your ideas or submit a Pull Request.
+For other inquiries or collaboration opportunities, you can reach out via email at:
+`batsim.simgrid.carbonplugin [at] gmail [dot] com`
+
